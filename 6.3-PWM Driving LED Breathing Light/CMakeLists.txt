@@ -14,7 +14,7 @@ set(SIZE arm-none-eabi-size)
 set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
 
 # project settings
-project(6.2-Timer_External_Clock C CXX ASM)
+project(6.3-PWM_Driving_LED_Breathing_Light C CXX ASM)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_C_STANDARD 11)
 
